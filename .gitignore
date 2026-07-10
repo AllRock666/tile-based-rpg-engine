@@ -1,0 +1,13 @@
+# Eclipse
+.metadata/
+.project
+.classpath
+.settings/
+
+# Java
+*.class
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
